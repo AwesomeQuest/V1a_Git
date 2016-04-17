@@ -15,3 +15,17 @@ Torfi Þorgrímsson
 	git checkout	Sync-ar allar breitur sem þú hefur
 
 3.
+a) Sínir muninn á milli tveggja file-a
+b) sínir alt sem hefur breist
+c) sínir munin á milli mismunandi commit
+
+4.
+Version control er að bjarga mismunadi version af project-inu þínu. GIT er nothæft vegna þess að það gerir þetta létt
+
+5.
+Í hvert sin sem manni fynst að maður hefur gert eitthvað mikilvægt.
+
+6.
+Working directory er þar sem þú ert að vinna,
+Staging area er þar sem þú getur valið nákvæmlega hvað þú vilt commit-a
+Repository er project-ið sjálft sem þú ert að vinna frá
