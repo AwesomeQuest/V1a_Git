@@ -29,3 +29,6 @@ Version control er að bjarga mismunadi version af project-inu þínu. GIT er no
 Working directory er þar sem þú ert að vinna,
 Staging area er þar sem þú getur valið nákvæmlega hvað þú vilt commit-a
 Repository er project-ið sjálft sem þú ert að vinna frá
+
+7.
+Þegar þú vilt prófa eithvad nýtt sem er ágætlega stórt
