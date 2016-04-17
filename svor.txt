@@ -1,0 +1,17 @@
+Torfi Þorgrímsson
+1.
+	
+	cd			Sínir þér hvar þú ert
+	cd ~		Sama og cd
+	ls			Sínir hvað er í directory
+	pwd			Prentar "working directory"
+	mkdir		Bír til nýtt directory
+2.
+
+	git clone 		Nær í og kóperar repository
+	git log			Sínir öll commit í þínu repository
+	git status		Sínir hvað hefur verið commit-að og hvað ekki
+	git diff		Sínir muninn á milli tveggja file-a
+	git checkout	Sync-ar allar breitur sem þú hefur
+
+3.
